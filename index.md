@@ -1,3 +1,5 @@
+<img src="image/LogoWithName.png" alt="coemiyell">
+
 # プライバシーポリシー
 
 ## 収集する情報
