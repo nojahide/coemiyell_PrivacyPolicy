@@ -1,4 +1,5 @@
 <img src="image/LogoWithName.png" alt="coemiyell">
+<br><br>
 
 # プライバシーポリシー
 
